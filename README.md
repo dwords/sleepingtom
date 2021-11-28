@@ -23,4 +23,11 @@ functionality over it (SO you better pray that everything went well). There are 
 The ZIFS method can be used and expanded with different languages, not only limited to bash. However, this is more of a PoC type of script.
 
 
-# Use cases 
+# Use cases
+
+
+An attacker may use this in various ways:
+
+Take for example this sceanrio:
+
+An attacker rigs a legit software such as Burpsuite with a script adhereing to ZIFS concepts. Being that the burpsuite installer is already a sh file, you can tweak the installer a bit to include a dropper that would then install the payload (or what EU geeks call implant) to a specific folder
