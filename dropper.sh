@@ -7,6 +7,8 @@
 # ==============
 
 
+#I should probably iterate over the processes with an array, but I havent figured it out yet :(
+
 
 #Initializing environment 
 #Fetching Tom
