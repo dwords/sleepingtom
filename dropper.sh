@@ -8,6 +8,7 @@
 
 
 #I should probably iterate over the processes with an array, but I havent figured it out yet :(
+#Thinking about making the dropper sleep after every 10 seconds 
 
 
 #Initializing environment 
